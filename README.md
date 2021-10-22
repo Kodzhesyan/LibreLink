@@ -1,4 +1,4 @@
-# LibreLink
+# LibreLink 2.3 for Android
 Программа FreeStyle Libre Link для работы с сенсорами первого и второго поколения.
 
 Для установки программы FreeStyle Libre Link необходимо сделать следующее:
